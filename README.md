@@ -1,5 +1,5 @@
 📖 What is JUPEBHub?
-JUPEB Prehub is a comprehensive, free web-based learning platform designed specifically for students preparing for the Joint Universities Preliminary Examinations Board (JUPEB) examination in Nigeria — the smarter alternative to JAMB for direct university entry.
+JUPEBHub is a comprehensive, free web-based learning platform designed specifically for students preparing for the Joint Universities Preliminary Examinations Board (JUPEB) examination in Nigeria — the smarter alternative to JAMB for direct university entry.
 Every year, over 30,000 Nigerian students register for JUPEB. Most existing preparation resources either cost thousands of naira or offer poor quality with no real learning experience. JUPEBHub was built to change that — permanently and for free.
 
 ✨ Features
