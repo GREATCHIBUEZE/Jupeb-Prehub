@@ -1,4 +1,4 @@
-📖 What is JUPEBHub?
+ What is JUPEBHub?
 JUPEBHub is a comprehensive, free web-based learning platform designed specifically for students preparing for the Joint Universities Preliminary Examinations Board (JUPEB) examination in Nigeria — the smarter alternative to JAMB for direct university entry.
 Every year, over 30,000 Nigerian students register for JUPEB. Most existing preparation resources either cost thousands of naira or offer poor quality with no real learning experience. JUPEBHub was built to change that — permanently and for free.
 
@@ -70,35 +70,6 @@ Visit jupebprehub.ng
 Click "Get Started Free" and create your account
 Select your department and begin studying
 
-No payment. No download. No credit card. Just open your browser and study.
-For Developers — Run Locally
-bash# Clone the repository
-git clone https://github.com/GREATCHIBUEZE/jupebprehub.git
-
-# Navigate into the project
-cd jupebhub
-
-# Open in browser (no build step required)
-open index.html
-
-JUPEBHub is currently a single-file HTML application with no build dependencies. Open index.html directly in any modern browser to run it locally.
-
-AI Features Setup
-To enable AI-powered explanations and the chatbot:
-
-Get a free API key from console.anthropic.com
-On the platform, go to Settings → AI Configuration
-Paste your API key — it is stored locally on your device only
-
-
-📁 Project Structure
-jupebhub/
-│
-├── index.html          # Main application (single-file architecture)
-├── README.md           # This file
-└── LICENSE             # MIT License
-
-A multi-file architecture with separate JS modules, Firebase backend, and a Node.js API layer is planned for v2.0.
 
 
 🗺️ Roadmap
