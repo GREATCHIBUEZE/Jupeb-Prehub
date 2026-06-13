@@ -1,5 +1,4 @@
 <script>
- 
 // DATABASE — REAL 2015 JUPEB QUESTIONS + STUDY CONTENT
 
 const SUBJECTS_DB = [
@@ -1111,4 +1110,5 @@ document.addEventListener('DOMContentLoaded', () => {
     catch(e) { showPage('landingPage'); }
   }
 });
-</script>
+
+<script>
